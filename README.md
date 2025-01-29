@@ -1,107 +1,20 @@
 # Week-2
  ### Crop and Fertilizerand Recommendation Prediction System 🌱
-Overview
-This project aims to assist farmers by recommending the best crops based on soil and weather conditions and suggesting suitable fertilizers to enhance productivity. Using machine learning models, we analyze key factors such as nitrogen (N), phosphorus (P), potassium (K), temperature, humidity, pH, and rainfall to provide accurate predictions.
+ 
+## Overview
+This project focuses on developing a machine learning-based recommendation system for crops and fertilizers. The goal is to assist farmers in selecting the appropriate crops to plant and the necessary fertilizers based on various environmental and soil parameters.
 
-### Table of Contents
-Features
+## Key Features
 
-Dataset
+Data Analysis: Utilized a dataset containing information on different crops, their nutrient requirements, and environmental conditions. Machine Learning Models: Implemented various machine learning algorithms to predict the best crop and fertilizer combinations.
 
-Technologies Used
-
-Installation
-
-Step-by-Step Process
-
-
-Usage
-
-Results
-
-Future Enhancements
-
-Contributors
-
-
-
-## Features
-✅ Predicts the best crop based on soil and climate conditions.
-✅ Suggests the most suitable fertilizer for better yield.
-✅ Data-driven recommendations using machine learning.
-✅ Web-based UI for easy interaction (if deployed).
-
-## Dataset
-Crop Recommendation Dataset (Crop_recommendation.csv)
-Contains soil nutrients, temperature, humidity, pH, and rainfall data.
-Fertilizer Prediction Dataset (Fertilizer Prediction.csv)
-Includes soil nutrient levels and recommended fertilizers.
-
+Data Visualization: Employed libraries like Matplotlib and Seaborn for visualizing data trends and insights. User -Friendly Interface: Designed a simple interface for users to input their soil and environmental data to receive crop and fertilizer recommendations.
 
 ## Technologies Used
-🔹 Python
-🔹 Pandas, NumPy (Data Processing)
-🔹 Matplotlib, Seaborn (Data Visualization)
 
-## Installation
-Clone this repository:
+Python Pandas NumPy Matplotlib Seaborn Machine Learning Libraries (e.g., Scikit-learn) 
 
-bash
-Copy
-Edit
-git clone https://github.com/your-username/crop-fertilizer-prediction.git
-cd crop-fertilizer-prediction
-Install dependencies:
+Dataset: The project uses a comprehensive dataset that includes features such as nitrogen (N), phosphorus (P), potassium (K), temperature, humidity, pH, rainfall, and crop labels.
 
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Run the Jupyter Notebook:
-
-bash
-Copy
-Edit
-jupyter notebook
-Step-by-Step Process
-1. Data Collection & Preprocessing
-Loaded crop recommendation and fertilizer prediction datasets.
-Cleaned data by handling missing values and duplicates.
-Performed exploratory data analysis (EDA) to identify key trends.
-2. Feature Engineering & Selection
-Selected important features: (N, P, K, temperature, humidity, pH, rainfall).
-Normalized data for better model performance.
-3. Model Selection & Training
-Used Random Forest, Decision Trees, SVM, and KNN for crop recommendation.
-Implemented Logistic Regression, Naïve Bayes for fertilizer prediction.
-Trained models on cleaned data and optimized hyperparameters.
-4. Model Evaluation
-Evaluated models using accuracy, precision, recall, and F1-score.
-Compared different models and selected the best one for deployment.
-5. Deployment (Optional)
-Built a simple web interface using Flask/Django.
-Created an input form where users can enter soil/weather conditions.
-Displayed crop and fertilizer recommendations.
-Usage
-To predict the best crop:
-
-python
-Copy
-Edit
-python crop_prediction.py
-To predict fertilizer recommendations:
-
-python
-Copy
-Edit
-python fertilizer_prediction.py
-Results
-Achieved high accuracy for crop recommendation and fertilizer prediction.
-Provided real-time insights for farmers.
-Future Enhancements 🚀
-Integrate a real-time weather API.
-Add GIS-based soil mapping for more accurate predictions.
-Improve UI with React.js or Streamlit.
-Contributors
-👤 SIRISHA ROKKAM –
-
+## Conclusion
+This project aims to enhance agricultural productivity by providing data-driven insights for crop selection and fertilization, ultimately contributing to sustainable farming practices.
