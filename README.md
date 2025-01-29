@@ -5,14 +5,24 @@ This project aims to assist farmers by recommending the best crops based on soil
 
 ### Table of Contents
 Features
+
 Dataset
+
 Technologies Used
+
 Installation
+
 Step-by-Step Process
+
+
 Usage
+
 Results
+
 Future Enhancements
+
 Contributors
+
 
 
 ## Features
