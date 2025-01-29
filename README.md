@@ -1,9 +1,9 @@
 # Week-2
- ### Crop Recommendation and Fertilizer Prediction System 🌱
+ ### Crop and Fertilizerand Recommendation Prediction System 🌱
 Overview
 This project aims to assist farmers by recommending the best crops based on soil and weather conditions and suggesting suitable fertilizers to enhance productivity. Using machine learning models, we analyze key factors such as nitrogen (N), phosphorus (P), potassium (K), temperature, humidity, pH, and rainfall to provide accurate predictions.
 
-Table of Contents
+### Table of Contents
 Features
 Dataset
 Technologies Used
@@ -13,25 +13,27 @@ Usage
 Results
 Future Enhancements
 Contributors
-Features
+
+
+## Features
 ✅ Predicts the best crop based on soil and climate conditions.
 ✅ Suggests the most suitable fertilizer for better yield.
 ✅ Data-driven recommendations using machine learning.
 ✅ Web-based UI for easy interaction (if deployed).
 
-Dataset
+## Dataset
 Crop Recommendation Dataset (Crop_recommendation.csv)
 Contains soil nutrients, temperature, humidity, pH, and rainfall data.
 Fertilizer Prediction Dataset (Fertilizer Prediction.csv)
 Includes soil nutrient levels and recommended fertilizers.
-Technologies Used
+
+
+## Technologies Used
 🔹 Python
 🔹 Pandas, NumPy (Data Processing)
 🔹 Matplotlib, Seaborn (Data Visualization)
-🔹 Scikit-learn (Machine Learning Models)
-🔹 Flask/Django (If deployed as a web app)
 
-Installation
+## Installation
 Clone this repository:
 
 bash
