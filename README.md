@@ -1,5 +1,5 @@
-# Week-2
- ### Crop and Fertilizerand Recommendation Prediction System 🌱
+# FINAL PROJECT
+ ### Crop and Fertilizer Recommendation Prediction System 🌱
  
 ## Overview
 This project focuses on developing a machine learning-based recommendation system for crops and fertilizers. The goal is to assist farmers in selecting the appropriate crops to plant and the necessary fertilizers based on various environmental and soil parameters.
