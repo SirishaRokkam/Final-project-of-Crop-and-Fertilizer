@@ -4,6 +4,24 @@
 ## Overview
 This project focuses on developing a machine learning-based recommendation system for crops and fertilizers. The goal is to assist farmers in selecting the appropriate crops to plant and the necessary fertilizers based on various environmental and soil parameters.
 
+## Features
+✅ Predicts the best crop based on soil and climate conditions.
+
+✅ Suggests the most suitable fertilizer for better yield.
+
+✅ Data-driven recommendations using machine learning.
+
+✅ Web-based UI for easy interaction.
+
+## Dataset
+Crop Recommendation Dataset (Crop_recommendation.csv)
+
+Contains soil nutrients, temperature, humidity, pH, and rainfall data.
+
+Fertilizer Prediction Dataset (Fertilizer Prediction.csv)
+
+Includes soil nutrient levels and recommended fertilizers.
+
 ## Key Features
 
 Data Analysis: Utilized a dataset containing information on different crops, their nutrient requirements, and environmental conditions. Machine Learning Models: Implemented various machine learning algorithms to predict the best crop and fertilizer combinations.
