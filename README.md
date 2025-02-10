@@ -37,6 +37,6 @@ Dataset: The project uses a comprehensive dataset that includes features such as
 ## Conclusion
 This project aims to enhance agricultural productivity by providing data-driven insights for crop selection and fertilization, ultimately contributing to sustainable farming practices.
 
-## Contributors
+## Contributor
 
 - 👩‍💻 [Sirisha Rokkam](https://github.com/SirishaRokkam)
